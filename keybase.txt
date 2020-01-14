@@ -1,0 +1,57 @@
+==================================================================
+https://keybase.io/eflejo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://enrich.flejo.net
+  * I am eflejo (https://keybase.io/eflejo) on keybase.
+  * I have a public key ASCLHsVAaJq9VKNg5zi3WIQr6xtyQUKuzdbFWocl-om24wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208b1ec540689abd54a360e738b758842beb1b724142aecdd6c55a8725fa89b6e30a",
+      "host": "keybase.io",
+      "kid": "01208b1ec540689abd54a360e738b758842beb1b724142aecdd6c55a8725fa89b6e30a",
+      "uid": "70ee7de51fd5a5ed348edbd788342819",
+      "username": "eflejo"
+    },
+    "merkle_root": {
+      "ctime": 1579036012,
+      "hash": "107e5934bf3ac0fe3380603bf51599785534dd8ab40fe01e65bdfa7474d71f12c4c3adc69419376643df269fd12e56729ff12c3a1a4df4e259b61cf5f606ec3c",
+      "hash_meta": "4cf9c9c66f561b8f5853d4346a01620daa01b0b2d83d3651f468aefa1251fd65",
+      "seqno": 14227603
+    },
+    "service": {
+      "entropy": "SSXjSul3tckjAtH5FLceYATp",
+      "hostname": "enrich.flejo.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1579036028,
+  "expire_in": 504576000,
+  "prev": "c26c889bb046d4a9d258d43f214685f501a602d9ad5ddbfb570644cea9e77dcc",
+  "seqno": 43,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgix7FQGiavVSjYOc4t1iEK+sbckFCrs3WxVqHJfqJtuMKp3BheWxvYWTESpcCK8QgwmyIm7BG1KnSWNQ/IUaF9QGmAtmtXdv7VwZEzqnnfczEIH25VjCLWNVXoNPLuaVmNiDXvB4cgx5DLsSt+93JgyQRAgHCo3NpZ8RA7KndNWBe7lXSpJMaVpod1QfNiizKuE8lFxnA35vF+Uo9bed2qVHfd8fyIlwI6LSG9+2q9nHrpmXaOlV44tM4CahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOax9O5Y8pIXpDesrF0IHCI7EbJlTEPmHcl12O5PhRdyo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/eflejo
+
+==================================================================
+
